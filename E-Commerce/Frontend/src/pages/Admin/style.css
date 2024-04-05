@@ -1,0 +1,31 @@
+/* Add CSS styles to define appearance and animation of the accordion */
+.accordion {margin-top:10px;
+    border: 1px solid #ebebeb;
+    border-radius: 5px;
+  }
+  
+  .accordion-item {
+    border-bottom: 1px solid #244446;
+  }
+  
+  .accordion-header {
+    background-color: #f0fdff;border-top:1px solid #d4d4d4 !important;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    width: 100%;height:auto;
+    text-align: left;
+    display: flex !important;justify-content:space-evenly !important;gap:10px;
+  }
+  
+  .accordion-header.active {
+    background-color: #136562;color:white;
+  }
+  
+  .accordion-content {
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 2s ease;
+  }
+  
+ 
