@@ -4,7 +4,7 @@ E-Commerce website fully *secure*, *responsive* and *userfriendly* based on **ME
 
 ## Tech-Used:- React, MongoDB, Node.js, Express.js, Javascript, Bootstrap, Postman, Git.
 
-## Deployed on *GitHub** + **Render.com*
+# Deployed on *GitHub* + *Render.com*
 
 ## Features:-
 1) **JWT Token based authentication**: Register, Login, Logout, Forgot password.
