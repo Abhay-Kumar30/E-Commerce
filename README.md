@@ -4,7 +4,7 @@ E-Commerce website fully *secure*, *responsive* and *userfriendly* based on **ME
 
 ## Tech-Used:- React, MongoDB, Node.js, Express.js, Javascript, Bootstrap, Postman, Git.
 
-## Deployed on **GitHub** + **Render.com**
+## Deployed on *GitHub** + **Render.com*
 
 ## Features:-
 1) **JWT Token based authentication**: Register, Login, Logout, Forgot password.
@@ -12,17 +12,17 @@ E-Commerce website fully *secure*, *responsive* and *userfriendly* based on **ME
 3) Add the products in cart.
 4) User Dashboard:- User can *update*, *delete* their account and *update password*.
 5) Admin Dashboard:- Admin can-
-   * Create, Update, Delete category of product.
+   * Create, Update, Delete category of products.
    * Create, Update, Delete products.
    * Admin can change role of user i.e from user to admin or vice-versa.
    * Admin can check, how many product added in cart.
    * Admin can set how many products have to show in home page.
 6) **Search bar** for product search.
-7) **Recommendation section similar products.**
+7) **Recommendation section for similar products.**
 
    ### Some more features:-
    * We save user password in *hashed format*.
-   * Dublicate email ID not allow.
+   * Dublicate Email-ID not allow.
    * *Pagination*.
 
 ## ScreenShorts
