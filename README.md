@@ -52,3 +52,8 @@ return 9;
 }
 ```
 
+![Image 2](https://github.com/Abhay-Kumar30/E-Commerce/assets/166091833/0ed0ae24-9f0e-4fe4-b27f-2afdb9409f72)
+
+
+
+
