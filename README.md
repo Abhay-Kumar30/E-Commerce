@@ -1,61 +1,32 @@
+
 # E-Commerce
-E-Commerce project fully based on MERN Stack.
+E-Commerce website fully *secure*, *responsive* and *userfriendly* based on **MERN Stack**.
 
-## s
-### s
+## Tech-Used:- React, MongoDB, Node.js, Express.js, Javascript, Bootstrap, Postman, Git.
 
-//////////////
+### Deployed on **GitHub** + **Render.com**
 
-now, for emphasise text
-we have two method
+## Features:-
+1) **JWT Token based authentication**: Register, Login, Logout, Forgot password.
+2) **Filter** the products based on Category and price range.
+3) Add the products in cart.
+4) User Dashboard:- User can *update*, *delete* their account and *update password*.
+5) Admin Dashboard:- Admin can-
+   * Create, Update, Delete category of product.
+   * Create, Update, Delete products.
+   * Admin can change role of user i.e from user to admin or vice-versa.
+   * Admin can check, how many product added in cart.
+   * Admin can set how many products have to show in home page.
+6) **Search bar** for product search.
+7) **Recommendation section similar products.**
 
-1) this is **emphasised** text
-2) this is __method__ with the help of double underscore on both sides
-///////////////////
+   ### Some more features:-
+   * We save user password in *hashed format*.
+   * Dublicate email ID not allow.
+   * *Pagination*.
 
-now, for italic way
-we have two method
-
-first) this is *italic* way
-second) this is _italic_ by single underscore ob both sides
-////////////////////////////
-
-for bullet points
-two way
-1) by astric
-* number 1
-* number2
-
-2) by hyphon
-- number1
-- number2
-
-
-### Now , add images
-<img src="Image 2.jpg" alt=""/>
-
-![alt text](http://.....png)
-
-now, for writing code
-
-for single line code, we use single tilde `code`
-ex:-
-`int p= 10;`
-
-for multiple line, we use triple tilde ```code```
-ex:-
-
-```
-function abc(){
-int  x=10;
-return 9;
-}
-```
-
-![Image 2](https://github.com/Abhay-Kumar30/E-Commerce/assets/166091833/0ed0ae24-9f0e-4fe4-b27f-2afdb9409f72)
-![a1](https://github.com/Abhay-Kumar30/E-Commerce/assets/166091833/879b44b4-c9aa-40be-b269-d8148c7fe9f8)
-
-
+## ScreenShorts
+![a1](https://github.com/Abhay-Kumar30/E-Commerce/assets/166091833/82557a46-71f4-4956-86aa-f283c34c40a2)
 
 
 
