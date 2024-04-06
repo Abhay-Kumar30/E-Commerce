@@ -32,7 +32,7 @@ two way
 
 
 ### Now , add images
-<img src="address.jpg" alt=""/>
+<img src="Image 2.jpg" alt=""/>
 
 ![alt text](http://.....png)
 
