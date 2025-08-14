@@ -6,6 +6,7 @@ export default function useCategory() {
 
   const [categories, setCategories] = useState([]);
 
+  
   //get cat
   const getCategories = async () => {
     try {
@@ -19,4 +20,5 @@ export default function useCategory() {
 
 
 // we creat ea custom hook to fetch all types of category
+
 
